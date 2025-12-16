@@ -1,43 +1,34 @@
 # Signal Processing Calculator Suite
 
-> Signal Processing Calculator Suite: 39 tools for Fourier Analysis, Circuit Analysis, Signal Processing, and Frequency Analysis. Designed for students, engineers, and researchers, offering precise calculations for continuous and discrete-time signals.
+> **Signal Processing Calculator Suite: 39 tools for Fourier Analysis, Circuit Analysis, Signal Processing, and Frequency Analysis. Designed for students, engineers, and researchers, offering precise calculations for continuous and discrete-time signals.**
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Technologies](#technologies)
-- [Features](#features)
-- [Technical Skills](#technical-skills)
-- [External Links](#external-links)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Status](#project-status)
-- [Keywords](#keywords)
+---
 
-## 🎯 Overview
-
-**Project Name:** Signal Processing Calculator Suite
+## 📋 Overview
 
 **Categories:** Education/E-Learning, Data Analysis, Tools/Utilities
 
+**Technologies:** Multiple Technologies
+
 **Project Period:** January 2025 - January 2025
 
-**Status:** Completed and Maintained
+**Status:** Completed and Maintained | **Last Updated:** January 2025
 
-**Last Updated:** January 2025
+---
 
-### Description
+## 🚀 Description
 
 Signal Processing Calculator Suite: 39 tools for Fourier Analysis, Circuit Analysis, Signal Processing, and Frequency Analysis. Designed for students, engineers, and researchers, offering precise calculations for continuous and discrete-time signals.
 
-## 🚀 Technologies
+---
 
-Multiple Technologies
-
-## ✨ Features
+## 💡 Project Highlights
 
 - Successfully developed and deployed Signal Processing Calculator Suite
 - Implemented using Multiple Technologies
 - Demonstrated proficiency in Education/E-Learning, Data Analysis
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -46,34 +37,20 @@ Multiple Technologies
 - Version Control (Git/GitHub)
 - Project Management
 
-## 🔗 External Links
+---
 
-Other Resources:
-- https://opensource.org/licenses/MIT
+## 🔗 Links & Resources
 
-## 📦 Installation
+### 🔧 Other Resources
+- [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
 
-```bash
-# Clone the repository
-git clone https://github.com/HorizonHnk/Signal-Processing-Calculator-Suite
+---
 
-# Navigate to the project directory
-cd Signal-Processing-Calculator-Suite
+## 📦 Repository
 
-# Install dependencies (if applicable)
-# npm install
-# or
-# pip install -r requirements.txt
-```
+**GitHub:** [https://github.com/HorizonHnk/Signal-Processing-Calculator-Suite](https://github.com/HorizonHnk/Signal-Processing-Calculator-Suite)
 
-## 💻 Usage
-
-Please refer to the project-specific documentation for detailed usage instructions.
-
-## 📊 Project Status
-
-- **Status:** Completed and Maintained
-- **Last Updated:** January 2025
+---
 
 ## 🏷️ Keywords
 
@@ -86,16 +63,8 @@ Multiple Technologies, Education/E-Learning, Data Analysis, Tools/Utilities, Sof
 **Henock Mukonkole (HorizonHnk)**
 
 - GitHub: [@henockhnk092-dot](https://github.com/henockhnk092-dot/)
-- Portfolio: [86 Technical Projects](https://github.com/henockhnk092-dot/)
-
-## 📄 License
-
-This project is part of my professional portfolio. Please contact me for licensing information.
-
-## 🤝 Contributing
-
-This is a portfolio project, but feedback and suggestions are always welcome!
+- Portfolio: [90 Technical Projects](https://github.com/henockhnk092-dot/)
 
 ---
 
-*Generated as part of HorizonHnk's GitHub Portfolio Restoration Project*
+*Part of my professional portfolio showcasing expertise in Education/E-Learning, Data Analysis, Tools/Utilities*
